@@ -44,6 +44,6 @@ public class Constants {
   public static final int NUM_CRALWERS = 5;
   
   // Number of crawler threads running
-  public static final String USER_AGENT = "UCI IR crawler 79725365";
+  public static final String USER_AGENT = "UCI IR crawler";
 
 }
